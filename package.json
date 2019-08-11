@@ -1,0 +1,52 @@
+{
+  "name": "vscode-e-pack",
+  "displayName": "@vimlesai/vscode",
+  "publisher": "VimLeSai",
+  "description": "it's almost includes needy extntions for front-end developer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VimLeSai/VsCodeEPack.git"
+  },
+  "homepage": "https://github.com/VimLeSai/VsCodeEPack",
+  "bugs": {
+    "url": "https://github.com/VimLeSai/VsCodeEPack/issues",
+    "email": "desai.vimal250@gmail.com"
+  },
+  "author": {
+    "name": "VimLeSai",
+    "email": "desai.vimal250@gmail.com"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "CoenraadS.bracket-pair-colorizer",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "aaron-bond.better-comments",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "knisterpeter.vscode-github",
+    "github.vscode-pull-request-github",
+    "k--kato.intellij-idea-keybindings",
+    "xabikos.javascriptsnippets",
+    "pkief.material-icon-theme",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "steoates.autoimport",
+    "christian-kohler.path-intellisense",
+    "jasonnutter.search-node-modules",
+    "msjsdiag.debugger-for-chrome",
+    "shan.code-settings-sync",
+    "karigari.chat",
+    "dsznajder.es7-react-js-snippets",
+    "joelday.docthis",
+    "wayou.vscode-todo-highlight"
+  ]
+}
